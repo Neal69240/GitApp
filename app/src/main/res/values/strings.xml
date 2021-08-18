@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThemometerApp</string>
+    <string name="et_temp">Enter The Temperature</string>
+    <string name="Celci_radiobtn">Celcius</string>
+    <string name="Faren_radiobtn">Farenhiet</string>
+    <string name="btn_calc">Calculate</string>
+</resources>
